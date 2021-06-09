@@ -1,0 +1,51 @@
+.influencer-singup-social {
+  padding: 30px;
+  margin: auto;
+  text-align: center;
+  margin-top: 100px;
+}
+.influencer-signup-social__link {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+  border: none !important;
+  margin: 10px;
+}
+.influencer-signup-social__image {
+  width: 20px;
+  height: 20px;
+}
+.influencer-signup-social__account__container {
+  display: flex;
+  margin: 40px 0;
+}
+.influencer-signup-social__profile {
+  display: flex;
+  padding: 20px 100px;
+  align-items: center;
+}
+.influencer-signup-social__profile__image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 20px;
+}
+.influencer-signup-social__profile__name {
+  margin: auto 0;
+}
+.influencer-signup-social__submit {
+  border: 1px solid #4FA7EE !important;
+  color: #fff !important;
+  background: #4FA7EE;
+  display: inline-block;
+  padding: 12px 50px;
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 100px;
+  text-align: center;
+  cursor: pointer;
+  outline: none !important;
+  text-decoration: none !important;
+}

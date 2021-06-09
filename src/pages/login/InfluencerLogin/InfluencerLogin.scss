@@ -1,0 +1,131 @@
+.influencer-singup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 3rem 4rem;
+  width: 100%;
+  max-width: 912px;
+  margin: 100px auto;
+}
+.influencer-signup-email__container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.influencer-signup-email__title {
+  color: #6EBB9A;
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.influencer-signup-email__social {
+  width: 100%;
+  padding-right: 20px;
+}
+.influencer-signup-email__social__title {
+  border-bottom: 1px solid #ECECEC;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+.influencer-signup-email__social__facebook {
+  background-color: #3b5997;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 1.5em 2em;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto 1em;
+  text-align: center;
+  transition: all .15s ease-in-out;
+  outline: none;
+  border-radius: 100px;
+  padding: .55rem 1rem;
+  font-size: 1rem;
+  text-decoration: none !important;
+  color: white !important;
+  text-transform: capitalize;
+  letter-spacing: .01em;
+}
+.influencer-signup-email__social__youtube {
+  background-color: #f32732 !important;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 1.5em 2em;
+  border: none;
+  cursor: pointer !important;
+  display: block !important;
+  margin: 0 auto 1em;
+  text-align: center;
+  transition: all .15s ease-in-out;
+  border-radius: 100px !important;
+  padding: .55rem 1rem !important;
+  font-size: 1rem !important;
+  color: white !important;
+  text-transform: capitalize;
+  letter-spacing: .01em;
+  box-shadow: none !important;
+  div {
+    display: none;
+  }
+}
+.influencer-signup-email__social__facebook__icon {
+  margin: 10px;
+}
+.influencer-signup-email__form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+}
+.influencer-signup-email__form__label {
+  font-size: 1rem;
+  margin: 10px 0;
+}
+.influencer-signup-email__input {
+  width: 100%;
+  padding: 14px 15px;
+  margin: 5px 0;
+  line-height: 1.35em;
+  font-weight: 300;
+  display: block;
+  width: 100%;
+  padding: .85em;
+  background-color: #EFF5F9;
+  border-radius: 100px;
+  outline: none !important;  
+  border: none !important;
+}
+.influencer-signup-email__submit {
+  border: 1px solid #4FA7EE !important;
+  color: #fff;
+  background: #4FA7EE;
+  display: inline-block;
+  padding: 14px 30px;
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 100px;
+  text-align: center;
+  cursor: pointer;
+  outline: none !important;
+}
+.influencer-signup-email__submit:hover {
+  background-color: white;
+  color: #6ebb9a;
+}
+.influnecer-signup-email__login__text {
+  color: #1A2430;
+  border-top: 1px solid #ECECEC;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  font-size: 1em;
+  line-height: 1.7em;
+  font-weight: 300;
+  text-align: center;
+  width: 100%;
+}
