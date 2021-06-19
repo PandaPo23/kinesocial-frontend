@@ -1,0 +1,16 @@
+.header__navbar {
+  background-color: #E9F0FC;
+}
+.header__nav__container {
+  display: flex;
+  justify-content: flex-end !important;
+}
+.header__nav {
+
+}
+.nav-link {
+  padding: 10px 20px !important;
+}
+.nav-link:hover {
+  border-bottom: 2px solid blue;
+}

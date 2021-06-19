@@ -1,0 +1,43 @@
+.brands-login {
+  margin: 100px auto 5em;
+  max-width: 580px;
+  width: 100%;
+  background-color: white;
+  padding: 50px;
+  text-align: center;
+}
+.brands-login__form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 280px;
+  margin: auto;
+}
+.brands-login__input {
+  width: 100%;
+  padding: 14px 15px;
+  margin: 5px 0;
+  line-height: 1.35em;
+  font-weight: 300;
+  display: block;
+  width: 100%;
+  padding: .85em;
+  background-color: #EFF5F9;
+  border-radius: 100px;
+  outline: none !important;  
+  border: none !important;
+}
+.brands-login__submit {
+  border: 1px solid #4FA7EE !important;
+  color: #fff;
+  background: #4FA7EE;
+  display: inline-block;
+  padding: 14px 30px;
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 100px;
+  text-align: center;
+  cursor: pointer;
+  outline: none !important;
+}

@@ -94,7 +94,7 @@ const InfluencerLogin = (props) => {
               <input type="text" className='influencer-signup-email__input' name='email' defaultValue={values.email} onChange={handleChange} />							
               <label className='influencer-signup-email__form__label'>Password</label>		
               <input type="password" className='influencer-signup-email__input' name='password' defaultValue={values.password} onChange={handleChange} />								
-              <input type="submit" className='influencer-signup-email__submit' value="Sign Up" />
+              <input type="submit" className='influencer-signup-email__submit' value="Log In" />
             </form>
           </Col>
         </Row>
